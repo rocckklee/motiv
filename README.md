@@ -10,7 +10,7 @@ worldwide. No account needed. No payment required.
 
 ## Screenshots
 
-![Generate](images/screenshot-generate.png)
+![Generate](images/Screenshot-download.png)
 ![Saved](images/screenshot-saved.png)
 ![Mobile](images/screenshot-mobile.png)
 
